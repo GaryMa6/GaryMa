@@ -1,2 +1,1 @@
-# GaryMa
-Machine learning practices
+These are my machine learning practices.
