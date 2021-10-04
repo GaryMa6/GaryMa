@@ -1,1 +1,1 @@
-These are my machine learning practices.
+Learning notebooks and practices in machine learning using python.
